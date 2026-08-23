@@ -7,6 +7,8 @@
 
 <img width="710" height="304" alt="2026-08-23 14_04_50-kali-linux-2026 2-vmware-amd64 - VMware Workstation" src="https://github.com/user-attachments/assets/bbec0490-1a8a-44d0-b939-1e8ec9c1cc8f" />
 
+
+
 <img width="806" height="341" alt="Screenshot 2026-08-23 140412" src="https://github.com/user-attachments/assets/dd597340-ffe4-4ea5-aa4c-dc8deed1618f" />
 
 
