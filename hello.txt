@@ -1,0 +1,21 @@
+File Manager Features (UI ke through)
+
+File Upload (HTML form + move_uploaded_file)
+File Download (readfile + proper headers)
+File Edit (textarea + save)
+File/Folder Delete, Rename, Copy, Move
+New file / folder create
+chmod / permission change
+File size + last modified date dikhana
+Zip / Unzip (ZipArchive class)
+Image preview
+
+System Information
+
+Full process list (ps aux / tasklist)
+Network interfaces + open ports
+Running services
+PHP info / loaded extensions
+Server software (Apache/Nginx version)
+Real-time CPU & Memory update (AJAX / JavaScript se)
+auto shell delete 
