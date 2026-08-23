@@ -1,8 +1,8 @@
-> Dark • Fast • Dangerous looking PHP Web Shell + File Manager
+> • Dangerous PHP Web Shell + File Manager
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-red?style=for-the-badge&logo=php)
 ![Status](https://img.shields.io/badge/Status-Educational-black?style=for-the-badge)
-![Style](https://img.shields.io/badge/Style-Hacker-green?style=for-the-badge)
+
 
 ---
 
